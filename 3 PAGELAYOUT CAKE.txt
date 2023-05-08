@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            THE CAKE CAFE
+        </title>
+    </head>
+    <body style="margin"0;padding:0;>
+        <h1>THE CAKE SHOP</h1>
+        <div style="background-color:purple;color:white;display:flex;flex-wrap:wrap;justify-content:space-between;margin:10px;">
+		<div style="background-color:purple;color:white;width:30%;margin-bottom:10px;padding:10px;">
+			<h2>Cake</h2>
+			<p>The torte is a very rich cake found throughout Europe, often of numerous thin layers and containing nuts, fruit, creme, and chocolate in combination. The claim to invention of the world-famous chocolate Sachertorte is disputed between two Vienna hotels.
+                In the United States, cakes usually are made by one of three methods. In the conventional method the sugar and fat are creamed together, the egg added, and a mixture of flour, salt, and baking powder mixed in alternately with the liquid, beginning and ending with dry ingredients. In the quick-dump, or one-bowl, method, all the ingredients except the leavening agent are put into a bowl and mixed vigorously (preferably with a power mixer), the leavening agent added, and mixing completed. As a modification of the method, the eggs and part of the milk may be added as a separate stage. The muffin method involves adding the combined liquid ingredients to the combined dry ingredients; but, although rapid and easy, this method unmodified produces a cake that tends to be coarse-textured and to have poor keeping quality. Chiffon cake is made by a modification of the muffin method in which the egg white is beaten separately and blended with the other mixed ingredients. Shortened cakes made by these methods can be baked in flat layer pans, in loaf pans, or in individual cups and can be baked at oven temperatures of 350–400 °F (177–204 °C).
+                English cake recipes using fat are of two main types. The rubbing-in method can be used for most mixtures in which the amount of fat is not more than half the amount of flour by weight. The fat is rubbed into the sifted flour, salt, and leavening agent until the mixture is like fine bread crumbs; sugar and other dry ingredients such as dried fruit are added next, followed by beaten eggs together with any other liquid in the recipe. For satisfactory results, the ingredients must be mixed thoroughly but without beating or overmixing. The creaming method is used when the proportion of fat to flour is half or more by weight, thus producing rich cakes. The fat and sugar are creamed well together, the egg beaten into this mixture, and sifted flour and salt, together with raising agent if necessary, folded carefully in, followed by dried fruit and any liquid in the recipe. Baking temperatures vary from 290 °F (143 °C) for very rich fruit cakes to 425 °F (218 °C) for small buns.
+            </p>
+		</div>
+        <div style="background-color:purple;color:white;width:30%;margin-bottom:10px;padding:10px;">
+			<h2>Frosting</h2>
+			<p>Frosting is the thick, fluffy mixture that is used to decorate our cakes and cupcakes. It is the stuff that holds shape on your cakes and looks pretty in various designs.
+                The frosting is usually made from some kind of fat like Butter or Cream along with sugar and other flavoring agents like Vanilla, Chocolate, Lemon etc. And I’m not sure if its a rule, but Frosting is always whipped. </p>
+		</div>
+		<div style="background-color:purple;color:white;width:30%;margin-bottom:10px;padding:10px;">
+			<h2>Decorating</h2>
+			<p>Cake decorating is the art of decorating a cake for special occasions such as birthdays, weddings, baby showers, national or religious holidays, or as a promotional item.
+
+                It is a form of sugar art that uses materials such as icing, fondant, and other edible decorations. An artisan may use simple or elaborate three-dimensional shapes as a part of the decoration, or on the entire cake. Chocolate is regularly used to decorate cakes as it can be melted and mixed with cream to make a ganache, or cocoa powder can be lightly dusted on top of a cake.
+                
+                Cake decoration has been featured on TV channels such as TLC, Food Network, and Discovery Family as a form of entertainment.
+            </p>
+		</div>
+	</div>
+    </body>
+</html>
